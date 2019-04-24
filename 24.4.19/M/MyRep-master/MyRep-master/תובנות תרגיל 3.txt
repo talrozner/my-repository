@@ -1,0 +1,33 @@
+תרגיל 3 - 
+
+חלק א : Filter 
+Feature Selection Algorithms _ Filter Methods.py
+Feature Selection Algorithms _ correlation coefficient scores.py
+
+חלק ב : Wrapper
+Feature Selection Algorithms _ Wrapper Methods.py
+
+חלק ג : Embedded
+Feature Selection Algorithms Embededd Methods.py
+
+# הערות:
+1.  ב- Filter:
+לנסות להריץ את SelectKBest, SelectPercentile, GenericUnivariateSelect
+האחרון עם mode של fwe
+
+2. correlation - לתקן את  הקוד של הדפסת קורלציות ב-correlation coefficient scores.py
+למקד אותם מראש להציג רק את ציוני הקורלציה שגדולים מ-0.15
+
+3. יכול להיות ששווה להעביר אליהם לתרגול את הקוד שמבצע את שלב ה-preprocess בשביל ביצוע חלק ב' 
+
+4. חשוב חשוב חשוב ! בחלק של ה-wrapper methods לבקש שיממשו רק את החלק של NO FS ו- Recursive feature elimination.
+כאשר בשניהם יש להשתמש במודל RF במקום SVR ובחישוב הציון יש לחשב f1_score ואין צורך ב-mean error
+
+הערה נוספת - יהיה טוב ששגיא יעבור איתם על ה-wrapper methods שבנה על הדוגמא המקורית של המצגת
+
+5. embedded - חלק קצר ופשוט. אין בעיות. להשתמש בחלק הראשון של RF מהדוגמא של שגיא.
+
+
+# סיכום:
+1. הזמן הכולל לפתרון התרגיל הזה הוא בין  שעתיים לשעתיים וחצי. 
+כדי לא להתפזר בזמנים יותר מדי אפשר להחליט שנותנים לחלק הראשון שעה, לחלק השני 45 דקות ולשלישי 30 דקות.

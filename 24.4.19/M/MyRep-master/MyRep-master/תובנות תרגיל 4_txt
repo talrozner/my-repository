@@ -1,0 +1,24 @@
+﻿תרגיל 4 - דגשים להרצת אלגוריתמים
+Kfold
+K-Fold Cross Validation.py
+
+hyperparameters
+מתוך הפייתון הקודם, החלק של GridSearch
+
+confusion matrix
+לייצר קובץ פייתון עם דוגמא ! (ר' הערות)
+
+ROC בניית העקומה
+AUC בניית העקומה
+ROC_AUC_curves.py
+
+Ensembles
+Ensembles​.py
+
+
+
+הערות:
+# GridSearch עם מעט פרמטרים
+# חישוב Kfold, GridSearch רץ בלי בעיה אם משתמשים בדוגמא
+# להעלות קובץ confusion Matrix.py ל-GitHub
+# זמן משוער כולל - שעה עד שעה וחצי

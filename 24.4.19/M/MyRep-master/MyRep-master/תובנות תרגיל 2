@@ -1,0 +1,15 @@
+תרגיל 2 - 
+עמודות רלוונטיות ל-Z score : 
+AMT_INCOME_TOTAL, AMT_CREDIT, OWN_CAR_AGE
+
+Gaussian Mixture - לטפל במקרים של NAN לפני, אמור לרוץ על כל העמודות מלבד ה-objects
+
+
+הערות כלליות:
+# אמור לקחת בסביבות שעה
+# קבצי פייתון של שגיא: 
+Finding Anomaly By Statistical Method.py
+Hierarchical Clustering.py
+# התרגיל מתחלק ל-4 חלקים: 
+Z-score, Gaussian Mixture Models, PCA, Hirerachical clustering
+# לפני התרגיל של ה-Gaussian Mixture Models הם צריכים לטפל ב-NAN

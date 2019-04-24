@@ -1,0 +1,29 @@
+SK_ID_CURR,ID of loan 
+TARGET,Target variable (1- client with payment difficulties : 0- otherwise)
+NAME_CONTRACT_TYPE,loan is cash or revolving
+NAME_TYPE_SUITE,Who was accompanying client when he was applying for the loan
+NAME_INCOME_TYPE,client's income type (businessman, working, maternity leave)
+NAME_EDUCATION_TYPE,name of highest education the client achieved
+NAME_FAMILY_STATUS,family status of the client
+NAME_HOUSING_TYPE,What is the housing situation of the client (renting,living with parents, etc..)
+OCCUPATION_TYPE,What kind of occupation does the client have
+WEEKDAY_APPR_PROCESS_START,on which day of the week did the client apply for the loan
+ORGANIZATION_TYPE,type of organization the client works at
+FONDKAPREMONT_MODE,normalized information about where the client lives, what is average, modus, median appartment size, common area, living area, age of building..
+HOUSETYPE_MODE,normalized information about where the client lives, what is average, modus, median appartment size, common area, living area, age of building..
+WALLSMATERIAL_MODE,normalized information about where the client lives, what is average, modus, median appartment size, common area, living area, age of building..
+CODE_GENDER,gender of the client
+FLAG_OWN_CAR,flag if a client owns a car
+FLAG_OWN_REALTY,flag if client owns a flat or a house
+CNT_CHILDREN,count of client's children
+FLAG_MOBIL,did client provide mobile phone (1=YES : 0=NO)
+AMT_INCOME_TOTAL,income of the client
+AMT_CREDIT,credit amount of the loan
+AMT_ANNUITY,Loan annuity (paid amount of the loan for each year)
+AMT_GOODS_PRICE,the price of the goods for which the loan is given
+REGION_POPULATION_RELATIVE,Normalized population of region where client lives
+DAYS_BIRTH,client's age in days at the time of the application
+DAYS_EMPLOYED,Num. of days before the application the client started his current employment
+DAYS_REGISTRATION,Num. of days before the application did client change his registration
+DAYS_ID_PUBLISH,Num. of days before the application did client change the identity document with which he applied for the loan
+OWN_CAR_AGE,age of client's car
